@@ -11,8 +11,9 @@ if (age <= 100 && age >= 0) {
   } else if (age >= 18) {
     document.write("you can get a driving license");
   } else {
-    document.write("you can get a driving license");
+    document.write("you cannot get a driving license");
   }
 } else {
-    
+    document.write("you are not eligible for driving  ");
+
 }
