@@ -14,6 +14,6 @@ if (age <= 100 && age >= 0) {
     document.write("you cannot get a driving license");
   }
 } else {
-    document.write("you are not eligible for driving  ");
+    document.write("Masha Allah ap zinda hain gari chala k mharna q hai");
 
 }
